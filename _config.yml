@@ -6,8 +6,9 @@ description: >
   Cicada: A CLI chat interface for you and your friends.
 header_pages:
   - about.md
+  - docs.md
 social_links:
-- { platform: github,         user_url: "https://github.com/prithvs/cicada" }
+- { platform: github, user_url: "https://github.com/prithvs/cicada" }
 plugins:
   - jekyll-titles-from-headings
 titles_from_headings:
