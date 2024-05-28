@@ -1,2 +1,2 @@
 # cicada
-Chat CLI
+Command-line Interface for Communication And Discussion Application
