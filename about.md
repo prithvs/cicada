@@ -1,10 +1,10 @@
-# About Cicada
+# About
 
 ## Introduction
 
 Cicada is a sophisticated yet user-friendly command-line interface (CLI) application designed to facilitate seamless communication and collaboration in distributed environments. Developed with a focus on simplicity, efficiency, and versatility, Cicada empowers users to connect, converse, and collaborate effortlessly, regardless of geographical barriers or technical constraints.
 
-## Our Vision
+## Vision
 
 At Cicada, we envision a world where communication knows no bounds - where individuals can connect, share ideas, and collaborate on projects with ease, irrespective of their physical location or technical expertise. Our mission is to bridge the gap between distributed teams and remote collaborators, enabling them to work together harmoniously and achieve their goals effectively.
 
