@@ -1,4 +1,4 @@
-# Cicada CLI Documentation
+# Documentation
 
 ## Introduction
 
