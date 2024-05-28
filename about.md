@@ -28,4 +28,4 @@ Ready to experience the power of seamless communication and collaboration? Join 
 
 ---
 
-*For inquiries, feedback, or collaboration opportunities, please contact us at [contact@cicada.chat](mailto:contact@cicada.chat). Follow us on [Twitter](https://twitter.com/cicadachat) and [GitHub](https://github.com/cicada) for the latest updates and announcements.*
+*For inquiries, feedback, or collaboration opportunities, please contact me at [GitHub](https://github.com/prithvs/cicada) for the latest updates and announcements.*
