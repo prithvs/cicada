@@ -29,4 +29,4 @@ At the heart of Cicada lies a vibrant community of users united by a common goal
 3. **Engage and Collaborate**: Dive into the world of Cicada and start engaging with fellow users. Exchange messages, share insights, brainstorm ideas, and collaborate on projects in real-time. With Cicada, the possibilities for communication and collaboration are endless.
 
 Experience the power of seamless communication and collaboration with Cicada - your ultimate command-line companion for distributed interaction!
-
+ **Will be available by mid October 2024.**
